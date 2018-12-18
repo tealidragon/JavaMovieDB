@@ -50,12 +50,12 @@
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId>io.swagger</groupId>
-            <artifactId>swagger-petstore-rest-assured</artifactId>
-            <version>1.0.0</version>
-            <scope>compile</scope>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>io.swagger</groupId>-->
+            <!--<artifactId>swagger-petstore-rest-assured</artifactId>-->
+            <!--<version>1.0.0</version>-->
+            <!--<scope>compile</scope>-->
+        <!--</dependency>-->
 
         <!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
         <dependency>
